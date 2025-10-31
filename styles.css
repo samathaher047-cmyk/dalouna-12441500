@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: "Rubik", sans-serif;
@@ -69,7 +70,7 @@ body {
 }
 
 .hero-text p {
-  background-color: #147b59;
+  background-color: #09f1a4;
   color: rgb(22, 15, 15);
   font-size: 14px;
   line-height: 1.6;
@@ -87,7 +88,7 @@ body {
   color: white;
   text-decoration: none;
   padding: 10px 25px;
-  border-radius: 5px;
+  border-radius: 50px;
   font-weight: bold;
   transition: 0.3s ease;
 }
