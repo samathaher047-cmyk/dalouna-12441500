@@ -209,7 +209,8 @@ body {
 }
 
 .dish {
-  color: black;
+  color:#1a1a1a ;
+    font-weight: 600;
   font-size: 15px;
 }
 
